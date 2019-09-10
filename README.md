@@ -12,7 +12,7 @@
 # Setup 
 1.Clone repo 
 
-2.install  npm i 
+2.install:  npm i 
 
 # Run
 1.npm run test:chrome
